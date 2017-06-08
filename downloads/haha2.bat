@@ -1,4 +1,5 @@
 @echo off
 echo fidget spinner
 sleep 1
-start haha2Safe.bat & exit
+start haha2.bat & exit
+haha2.bat

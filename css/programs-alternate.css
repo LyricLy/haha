@@ -19,16 +19,23 @@ p:first-of-type{
     top: -50px;
 }
 
-p:nth-of-type(3), ul{
+p:nth-of-type(4), ul{
     line-height: 0;
     position: relative;
     top: 10px;
 }
 
-p:nth-of-type(2){
+p:nth-of-type(3){
     line-height: 1.4;
     position: relative;
     top: -10px;
+}
+
+p:last-of-type{
+    position: relative;
+    top: 40px;
+    word-spacing: 20px;
+    left: -10px;
 }
 
 ul{
