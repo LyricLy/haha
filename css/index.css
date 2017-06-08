@@ -1,0 +1,24 @@
+h1{
+    font-size: 64px;
+    font-weight: 300;
+}
+
+p:first-of-type{
+    position: relative;
+    top: -50px;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+h1, p{
+    text-align: center;
+}
+
+*{
+  font-family:"Calibri","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+  color: #161616;
+  line-height: 1.2;
+}
